@@ -1,6 +1,6 @@
 # Video Streaming Fundamentals
 
-## Difference between Prossive Download vs Streaming
+## Difference between Progressive Download vs Streaming
 
 ### Progressive Download
 
